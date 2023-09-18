@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.fdb6c332.css",
-    "main.js": "./static/js/main.c1b73859.js",
+    "main.css": "./static/css/main.0f02d4c2.css",
+    "main.js": "./static/js/main.17301034.js",
+    "static/media/Articles.png": "./static/media/Articles.6033752b4d955202cee6.png",
     "static/media/a1.jpg": "./static/media/a1.d9229f46696175ce5b6a.jpg",
     "static/media/a2.jpg": "./static/media/a2.fb3d6466e5a2349f5a76.jpg",
     "static/media/a3.jpg": "./static/media/a3.85fc339ca6698dd753e7.jpg",
-    "static/media/1.jpg": "./static/media/1.75a20aef134881e984c2.jpg",
+    "static/media/implementProj2.jpg": "./static/media/implementProj2.64a576c86c5804393aaf.jpg",
+    "static/media/acceptProj1.jpg": "./static/media/acceptProj1.11af6a4fa8ecbc80ba5c.jpg",
+    "static/media/1.jpg": "./static/media/1.44e73f811437edd898d4.jpg",
+    "static/media/books.jpg": "./static/media/books.94bcd7db5625ec052798.jpg",
     "static/media/3.jpg": "./static/media/3.f905574cfbec4395fbf2.jpg",
     "static/media/2.jpg": "./static/media/2.42bb08b84e0ea7be608f.jpg",
     "static/media/BNazanin.ttf": "./static/media/BNazanin.6337ce6eb8d11957c0c0.ttf",
     "static/media/B Nazanin Bold_YasDL.com.ttf": "./static/media/B Nazanin Bold_YasDL.com.234e90c54d5b365c8990.ttf",
-    "static/media/bg1.png": "./static/media/bg1.973dbe206056c73916ac.png",
     "static/media/404.svg": "./static/media/404.5cad62d49b12d7db728b3b59459cd508.svg",
-    "static/media/bg2.png": "./static/media/bg2.23e4303643ec50621508.png",
+    "static/media/ResearchProj.png": "./static/media/ResearchProj.252bceaff91bcc0a0a73.png",
+    "static/media/eitaa_black.png": "./static/media/eitaa_black.9bbe619fc37695b9e529.png",
+    "static/media/bale_black.png": "./static/media/bale_black.3cd0895dc1f9188630e0.png",
+    "static/media/soroush_black.png": "./static/media/soroush_black.f436ac7945ca78e81127.png",
+    "static/media/movie_neon1.jpg": "./static/media/movie_neon1.43d50149d0258ce5d74b.jpg",
     "static/media/astronaut.svg": "./static/media/astronaut.e2b60a65821122a3377a8f0f01d68285.svg",
     "static/media/personalImg.jpeg": "./static/media/personalImg.8a6b9d377106f5fa8918.jpeg",
     "static/media/moon.svg": "./static/media/moon.03785b8c1691696c00b6a0161d2cd1e4.svg",
@@ -20,11 +27,11 @@
     "static/media/rocket.svg": "./static/media/rocket.e46019d4c7684ff9d35db03b7aae8edd.svg",
     "index.html": "./index.html",
     "static/media/drawer.svg": "./static/media/drawer.f8a9f0cf12d419a7d18556f98d81a47e.svg",
-    "main.fdb6c332.css.map": "./static/css/main.fdb6c332.css.map",
-    "main.c1b73859.js.map": "./static/js/main.c1b73859.js.map"
+    "main.0f02d4c2.css.map": "./static/css/main.0f02d4c2.css.map",
+    "main.17301034.js.map": "./static/js/main.17301034.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdb6c332.css",
-    "static/js/main.c1b73859.js"
+    "static/css/main.0f02d4c2.css",
+    "static/js/main.17301034.js"
   ]
 }
